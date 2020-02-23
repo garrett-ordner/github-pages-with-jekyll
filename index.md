@@ -1,4 +1,3 @@
-# Welcome to my blog
+# Garrett Ordner
 
-I'm glad you are here. I plan to talk about ...
-Hi
+Website under construction.
