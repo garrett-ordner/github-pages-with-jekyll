@@ -1,12 +1,10 @@
 theme: minima
 title: Garrett Ordner
 author: Garrett Ordner
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Garrett Ordner's personal website.
+  Garrett Ordner's personal website. Currently under construction.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  garrett-ordner # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
