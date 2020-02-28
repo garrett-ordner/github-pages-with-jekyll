@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+name: Stats Simplified
+description: ''
+plugins:
+  - jekyll-admin
